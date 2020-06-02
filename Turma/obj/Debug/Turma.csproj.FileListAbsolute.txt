@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\source\repos\Turma\Turma\bin\Debug\Turma.exe.config
+C:\Users\vinicius.fernandes\source\repos\Turma\Turma\bin\Debug\Turma.exe
+C:\Users\vinicius.fernandes\source\repos\Turma\Turma\bin\Debug\Turma.pdb
+C:\Users\vinicius.fernandes\source\repos\Turma\Turma\obj\Debug\Turma.csprojAssemblyReference.cache
+C:\Users\vinicius.fernandes\source\repos\Turma\Turma\obj\Debug\Turma.exe
+C:\Users\vinicius.fernandes\source\repos\Turma\Turma\obj\Debug\Turma.pdb
